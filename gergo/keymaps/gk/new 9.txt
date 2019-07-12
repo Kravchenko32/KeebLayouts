@@ -1,0 +1,1 @@
+mklink /J C:\Users\georgek\Dropbox\gergo\keymaps\gk C:\gergo\qmk_firmware\keyboards\gergo\keymaps\gk
