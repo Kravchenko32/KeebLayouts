@@ -1,15 +1,10 @@
-#----------------------------------------------------------------------------
-# make gergo:germ:dfu
-# Make sure you have dfu-programmer installed!
-#----------------------------------------------------------------------------
 # Firmware options
 BALLER = no 			# Enable to ball out
 BALLSTEP = 20  			# Multiple in px to move, multiplied by layer number
 SCROLLSTEP = 1 			# Lines to scroll with ball
 MOUSEKEY_ENABLE = yes   # Mouse keys(+4700), needed for baller
 SWAP_HANDS_ENABLE= yes  # Allow swapping hands of keyboard
-
-AUTO_SHIFT_ENABLE = yes
+#AUTO_SHIFT_ENABLE = yes
 
 #Debug options
 VERBOSE 		 = yes
